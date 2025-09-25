@@ -21,6 +21,3 @@ Supports both **offline music libraries** and **online streaming** for a seamles
 ## 🛠️ Tech Stack
 - **Language:** Python 3.9
 - **Libraries (example):** OpenCV, DeepFace / TensorFlow Lite, requests, pygame (or any audio player)  
-
-   git clone https://github.com/your-username/EBMP.git
-   cd EBMP
